@@ -2,39 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lucius Bobikiewicz</title>
-    <link>https://lubobde.github.io/categories/</link>
+    <link>/home/lucius/lubob_net_website/public/categories/</link>
     <description>Recent content in Categories on Lucius Bobikiewicz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
     
-	<atom:link href="https://lubobde.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/lucius/lubob_net_website/public/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://lubobde.github.io/categories/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://lubobde.github.io/categories/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Ad</title>
-      <link>https://lubobde.github.io/categories/ad/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>https://lubobde.github.io/categories/ad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Propaganda</title>
-      <link>https://lubobde.github.io/categories/propaganda/</link>
+      <title>propaganda</title>
+      <link>/home/lucius/lubob_net_website/public/categories/propaganda/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>https://lubobde.github.io/categories/propaganda/</guid>
+      <guid>/home/lucius/lubob_net_website/public/categories/propaganda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ad</title>
+      <link>/home/lucius/lubob_net_website/public/categories/ad/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>/home/lucius/lubob_net_website/public/categories/ad/</guid>
       <description></description>
     </item>
     

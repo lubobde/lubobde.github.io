@@ -2,66 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lucius Bobikiewicz</title>
-    <link>https://lubobde.github.io/tags/</link>
+    <link>/home/lucius/lubob_net_website/public/tags/</link>
     <description>Recent content in Tags on Lucius Bobikiewicz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
     
-	<atom:link href="https://lubobde.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/lucius/lubob_net_website/public/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>https://lubobde.github.io/tags/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>https://lubobde.github.io/tags/</guid>
-      <description></description>
-    </item>
     
     <item>
-      <title>Belson</title>
-      <link>https://lubobde.github.io/tags/belson/</link>
+      <title>belson</title>
+      <link>/home/lucius/lubob_net_website/public/tags/belson/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>https://lubobde.github.io/tags/belson/</guid>
+      <guid>/home/lucius/lubob_net_website/public/tags/belson/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ceo</title>
-      <link>https://lubobde.github.io/tags/ceo/</link>
-      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
-      
-      <guid>https://lubobde.github.io/tags/ceo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gavin</title>
-      <link>https://lubobde.github.io/tags/gavin/</link>
+      <title>gavin</title>
+      <link>/home/lucius/lubob_net_website/public/tags/gavin/</link>
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>https://lubobde.github.io/tags/gavin/</guid>
+      <guid>/home/lucius/lubob_net_website/public/tags/gavin/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hardware</title>
-      <link>https://lubobde.github.io/tags/hardware/</link>
+      <title>hooli</title>
+      <link>/home/lucius/lubob_net_website/public/tags/hooli/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>/home/lucius/lubob_net_website/public/tags/hooli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>/home/lucius/lubob_net_website/public/tags/hardware/</link>
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
-      <guid>https://lubobde.github.io/tags/hardware/</guid>
+      <guid>/home/lucius/lubob_net_website/public/tags/hardware/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hooli</title>
-      <link>https://lubobde.github.io/tags/hooli/</link>
-      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      <title>ceo</title>
+      <link>/home/lucius/lubob_net_website/public/tags/ceo/</link>
+      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
       
-      <guid>https://lubobde.github.io/tags/hooli/</guid>
+      <guid>/home/lucius/lubob_net_website/public/tags/ceo/</guid>
       <description></description>
     </item>
     
