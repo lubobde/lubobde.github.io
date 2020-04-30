@@ -3,10 +3,13 @@ baseurl = "http://example.org" #without ending slash
 languageCode = "en-us"
 title = "Hugo Identity Theme"
 theme = "hugo-identity-theme"
+themesDir = "../.."
 
 # Disable unnecessary kinds
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 
+# Enter your tracking code to enable Google Analytics
+#googleAnalytics = "UA-XXXXX-Y"
 
 [params]
 
@@ -38,11 +41,18 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # Personal data
   [params.personal]
     # If name is not set, author is used
-    name = "Lucius Bobikiewicz"
+    name = "Jane Powers"
     # Avatars can be written to images/avatars/
-    avatar = "portrait.png"
-    position = "Agile Change Manager * Bitcoin Enthusiast * Entrepreneur"
-    livesIn = "[Halle, Germany](https://goo.gl/maps/wPNTAnnGzq5RNTz7A)"
+    avatar = "jane.jpg"
+    position = "Lead Engineer"
+    livesIn = "[Munich, Germany](#some-maps-url)"
+    scope = [
+        "UX for [member dashboard](#)",
+        "Maintainer for [awesome-project](#)",
+        "Open Source [community management](#)"
+      ]
+    biography = """Jane Powers is plain awesome. He worked at Corp A and B and is open for new work.  
+Even new lines and other markdown styles are working within the bio."""
 
   # Contact form settings
 
@@ -59,7 +69,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     # - click the confirm link in the email from www.formspree.io
     # - you're done. Happy mailing!
 
-    email = "lucius.bobikiewicz@lubob.net"
+    email = "your@email.com"
 
     # It is possible to substitute formspring with other providers
     # as an example the mailout plugin from caddy.
@@ -68,11 +78,11 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
 
     #postURL = "https://example.com/mailout/"
 
-    enable = true
-    title = "Get in Touch!"
+    enable = false
+    title = "Touch Me!"
     namePlaceholder = "Name"
     emailPlaceholder = "Email"
-    messagePlaceholder = "Your Message"
+    messagePlaceholder = "Message"
     buttonText = "Send it"
     success = "Thank you for contacting us."
     error = "Message could not be send. Please contact us at "
@@ -94,18 +104,23 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
   # Social settings
   # You may change these with your social links or add others
 
-
   [[params.social]]
-    title = "Email"
-    icon = "fa-envelope"
-    link = "mailto:lucius.bobikiewicz@lubob.net"
+    title = "Twitter"
+    icon = "fa-twitter"
+    link = "#"
     target = "_blank"
 
   [[params.social]]
-    title = "Telegram"
-    icon = "fa-paper-plane"
-    link = "https://t.me/lubobde"
-    target = "Telegram"
+    title = "Instagram"
+    icon = "fa-instagram"
+    link = "#"
+    target = "_blank"
+
+  [[params.social]]
+    title = "Facebook"
+    icon = "fa-facebook"
+    link = "#"
+    target = "_blank"
 
   # Footer settings
   [params.footer]
