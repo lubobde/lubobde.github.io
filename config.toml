@@ -68,7 +68,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
 
     #postURL = "https://example.com/mailout/"
 
-    enable = true
+    enable = false
     title = "Get in Touch!"
     namePlaceholder = "Name"
     emailPlaceholder = "Email"
