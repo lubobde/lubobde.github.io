@@ -41,7 +41,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     name = "Lucius Bobikiewicz"
     # Avatars can be written to images/avatars/
     avatar = "portrait.png"
-    position = "Agile Change Manager * Bitcoin Enthusiast * Entrepreneur"
+    position = "Agile Change Manager • Bitcoin Enthusiast • Entrepreneur"
     livesIn = "[Halle, Germany](https://goo.gl/maps/wPNTAnnGzq5RNTz7A)"
 
   # Contact form settings
