@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "Aerial"
+title = "LuBob"
 baseurl = "https://lubob.net/"
 theme = "aerial"
 
@@ -8,7 +8,7 @@ theme = "aerial"
   about = "Agile Change Manager &nbsp;&bull;&nbsp; Bitcoin Enthusiast &nbsp;&bull;&nbsp; Entrepreneur"
   copyright = "Untitled"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
-  bg_scroll = "vv"
+  bg_scroll = "no"
   favicon = "favicon.ico"
 
 
