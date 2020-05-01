@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucius Bobikiewicz</title>
+    <link>https://lubob.net/</link>
+    <description>Recent content on Lucius Bobikiewicz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://lubob.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

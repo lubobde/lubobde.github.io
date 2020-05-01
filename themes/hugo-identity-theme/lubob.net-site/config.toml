@@ -5,7 +5,7 @@ title = "Lucius Bobikiewicz"
 theme = "hugo-identity-theme"
 
 # Disable unnecessary kinds
-disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
+#disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT", "404"]
 
 
 [params]
@@ -27,13 +27,13 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
 
   # Link custom assets relative to /static
   #custom_js  = [""]
-  #custom_css = ["background.css", "icons.css"]
+  custom_css = ["background.css"]
 
-  # Customization switches
-  # Overwrite FontAwesome: see icons.css
-  #custom_icons = true
-  # Overwrite background: see background.css
-  #custom_background = true
+  # Overwrite Customization
+  # switches Overwrite: FontAwesome see.icons
+  # css_custom = icons
+  # true background: see background.css
+  # custom_background = ["bg.jpg"] # lubob: das hat nie funktioniert,keine ahnung was das soll. habe es auch mit true statt filenamen probiert. L
 
   # Personal data
   [params.personal]
@@ -105,7 +105,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     title = "Telegram"
     icon = "fa-paper-plane"
     link = "https://t.me/lubobde"
-    target = "Telegram"
+    target = "_blank"
 
   # Footer settings
   [params.footer]
