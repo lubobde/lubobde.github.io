@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http://example.org" #without ending slash
+baseurl = "https://lubob.net" #without ending slash
 languageCode = "en-us"
-title = "Hugo Identity Theme"
+title = "Lucius Bobikiewicz"
 theme = "hugo-identity-theme"
 
 # Disable unnecessary kinds
@@ -41,7 +41,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
     name = "Lucius Bobikiewicz"
     # Avatars can be written to images/avatars/
     avatar = "portrait.png"
-    position = "Agile Change Manager * Bitcoin Enthusiast * Entrepreneur"
+    position = "Agile Change Manager • Bitcoin Enthusiast • Entrepreneur"
     livesIn = "[Halle, Germany](https://goo.gl/maps/wPNTAnnGzq5RNTz7A)"
 
   # Contact form settings
@@ -68,7 +68,7 @@ disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap",
 
     #postURL = "https://example.com/mailout/"
 
-    enable = true
+    enable = false
     title = "Get in Touch!"
     namePlaceholder = "Name"
     emailPlaceholder = "Email"
